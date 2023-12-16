@@ -21,7 +21,7 @@ module plinkoboard(clk,rst,randChoice,count1,count2,count3,count4,count5,count6,
   input[6:0] randChoice;
   output [4:0] count1, count2, count3, count4, count5, count6, count7, count8;
 
-  // Takes the value inputed in randChoice and puts the location that the ball falls in into a wire named ballLoc:
+  // Takes the value inputed inside randChoice and puts the location that the ball falls in into a wire named ballLoc:
   ballLocator ball0(randChoice,ballLoc);
   wire[2:0] ballLoc;
 
