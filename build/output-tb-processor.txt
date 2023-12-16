@@ -1,0 +1,1 @@
+ERROR: cpu-main.v:31: $urandom's seed must be an integer/time variable or a register.

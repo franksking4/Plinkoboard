@@ -1,0 +1,8 @@
+WARNING: memory.v:17: $readmemh(programs/ballistics.mem): Not enough words in the file for the requested range [0:65535].
+VCD info: dumpfile build/tb-regfile.vcd opened for output.
+zzz
+time=000 idxa=000 idxb=000 idxt=011 a=zzzz b=zzzz t=zzzz
+time=002 idxa=000 idxb=111 idxt=011 a=zzzz b=zzzz t=zzzz
+ASSERTION FAILED in tb_regfile: a === 0
+FATAL: testbenches/tb-regfile.v:40: 
+       Time: 3 Scope: tb_regfile

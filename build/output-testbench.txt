@@ -1,0 +1,173 @@
+VCD info: dumpfile build/tb-processor.vcd opened for output.
+Time=000ms, Clock=0, Reset=1, RandChoice=xxxxxxx, Count1= x, Count2= x, Count3= x, Count4= x, Count5= x, Count6= x, Count7= x, Count8= x, BallLocation=x
+Time=010ms, Clock=1, Reset=1, RandChoice=xxxxxxx, Count1= 0, Count2= 0, Count3= 0, Count4= 0, Count5= 0, Count6= 0, Count7= 0, Count8= 0, BallLocation=x
+Time=020ms, Clock=0, Reset=0, RandChoice=xxxxxxx, Count1= 0, Count2= 0, Count3= 0, Count4= 0, Count5= 0, Count6= 0, Count7= 0, Count8= 0, BallLocation=x
+Time=030ms, Clock=1, Reset=0, RandChoice=1110100, Count1= 0, Count2= 0, Count3= 0, Count4= 0, Count5= 1, Count6= 0, Count7= 0, Count8= 0, BallLocation=4
+Time=040ms, Clock=0, Reset=0, RandChoice=1110100, Count1= 0, Count2= 0, Count3= 0, Count4= 0, Count5= 1, Count6= 0, Count7= 0, Count8= 0, BallLocation=4
+Time=050ms, Clock=1, Reset=0, RandChoice=1100100, Count1= 0, Count2= 0, Count3= 0, Count4= 1, Count5= 1, Count6= 0, Count7= 0, Count8= 0, BallLocation=3
+Time=060ms, Clock=0, Reset=0, RandChoice=1100100, Count1= 0, Count2= 0, Count3= 0, Count4= 1, Count5= 1, Count6= 0, Count7= 0, Count8= 0, BallLocation=3
+Time=070ms, Clock=1, Reset=0, RandChoice=1100101, Count1= 0, Count2= 0, Count3= 0, Count4= 1, Count5= 2, Count6= 0, Count7= 0, Count8= 0, BallLocation=4
+Time=080ms, Clock=0, Reset=0, RandChoice=1100101, Count1= 0, Count2= 0, Count3= 0, Count4= 1, Count5= 2, Count6= 0, Count7= 0, Count8= 0, BallLocation=4
+Time=090ms, Clock=1, Reset=0, RandChoice=1011100, Count1= 0, Count2= 0, Count3= 0, Count4= 1, Count5= 3, Count6= 0, Count7= 0, Count8= 0, BallLocation=4
+Time=100ms, Clock=0, Reset=0, RandChoice=1011100, Count1= 0, Count2= 0, Count3= 0, Count4= 1, Count5= 3, Count6= 0, Count7= 0, Count8= 0, BallLocation=4
+Time=110ms, Clock=1, Reset=0, RandChoice=0011111, Count1= 0, Count2= 0, Count3= 0, Count4= 1, Count5= 3, Count6= 1, Count7= 0, Count8= 0, BallLocation=5
+Time=120ms, Clock=0, Reset=0, RandChoice=0011111, Count1= 0, Count2= 0, Count3= 0, Count4= 1, Count5= 3, Count6= 1, Count7= 0, Count8= 0, BallLocation=5
+Time=130ms, Clock=1, Reset=0, RandChoice=1111001, Count1= 0, Count2= 0, Count3= 0, Count4= 1, Count5= 3, Count6= 2, Count7= 0, Count8= 0, BallLocation=5
+Time=140ms, Clock=0, Reset=0, RandChoice=1111001, Count1= 0, Count2= 0, Count3= 0, Count4= 1, Count5= 3, Count6= 2, Count7= 0, Count8= 0, BallLocation=5
+Time=150ms, Clock=1, Reset=0, RandChoice=0001010, Count1= 0, Count2= 0, Count3= 1, Count4= 1, Count5= 3, Count6= 2, Count7= 0, Count8= 0, BallLocation=2
+Time=160ms, Clock=0, Reset=0, RandChoice=0001010, Count1= 0, Count2= 0, Count3= 1, Count4= 1, Count5= 3, Count6= 2, Count7= 0, Count8= 0, BallLocation=2
+Time=170ms, Clock=1, Reset=0, RandChoice=1010110, Count1= 0, Count2= 0, Count3= 1, Count4= 1, Count5= 4, Count6= 2, Count7= 0, Count8= 0, BallLocation=4
+Time=180ms, Clock=0, Reset=0, RandChoice=1010110, Count1= 0, Count2= 0, Count3= 1, Count4= 1, Count5= 4, Count6= 2, Count7= 0, Count8= 0, BallLocation=4
+Time=190ms, Clock=1, Reset=0, RandChoice=0011110, Count1= 0, Count2= 0, Count3= 1, Count4= 1, Count5= 5, Count6= 2, Count7= 0, Count8= 0, BallLocation=4
+Time=200ms, Clock=0, Reset=0, RandChoice=0011110, Count1= 0, Count2= 0, Count3= 1, Count4= 1, Count5= 5, Count6= 2, Count7= 0, Count8= 0, BallLocation=4
+Time=210ms, Clock=1, Reset=0, RandChoice=0111101, Count1= 0, Count2= 0, Count3= 1, Count4= 1, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=5
+Time=220ms, Clock=0, Reset=0, RandChoice=0111101, Count1= 0, Count2= 0, Count3= 1, Count4= 1, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=5
+Time=230ms, Clock=1, Reset=0, RandChoice=1000101, Count1= 0, Count2= 0, Count3= 1, Count4= 2, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=240ms, Clock=0, Reset=0, RandChoice=1000101, Count1= 0, Count2= 0, Count3= 1, Count4= 2, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=250ms, Clock=1, Reset=0, RandChoice=0000101, Count1= 0, Count2= 0, Count3= 2, Count4= 2, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=2
+Time=260ms, Clock=0, Reset=0, RandChoice=0000101, Count1= 0, Count2= 0, Count3= 2, Count4= 2, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=2
+Time=270ms, Clock=1, Reset=0, RandChoice=0101100, Count1= 0, Count2= 0, Count3= 2, Count4= 3, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=280ms, Clock=0, Reset=0, RandChoice=0101100, Count1= 0, Count2= 0, Count3= 2, Count4= 3, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=290ms, Clock=1, Reset=0, RandChoice=1101000, Count1= 0, Count2= 0, Count3= 2, Count4= 4, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=300ms, Clock=0, Reset=0, RandChoice=1101000, Count1= 0, Count2= 0, Count3= 2, Count4= 4, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=310ms, Clock=1, Reset=0, RandChoice=0110100, Count1= 0, Count2= 0, Count3= 2, Count4= 5, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=320ms, Clock=0, Reset=0, RandChoice=0110100, Count1= 0, Count2= 0, Count3= 2, Count4= 5, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=330ms, Clock=1, Reset=0, RandChoice=0000101, Count1= 0, Count2= 0, Count3= 3, Count4= 5, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=2
+Time=340ms, Clock=0, Reset=0, RandChoice=0000101, Count1= 0, Count2= 0, Count3= 3, Count4= 5, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=2
+Time=350ms, Clock=1, Reset=0, RandChoice=1000011, Count1= 0, Count2= 0, Count3= 3, Count4= 6, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=360ms, Clock=0, Reset=0, RandChoice=1000011, Count1= 0, Count2= 0, Count3= 3, Count4= 6, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=370ms, Clock=1, Reset=0, RandChoice=1000101, Count1= 0, Count2= 0, Count3= 3, Count4= 7, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=380ms, Clock=0, Reset=0, RandChoice=1000101, Count1= 0, Count2= 0, Count3= 3, Count4= 7, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=390ms, Clock=1, Reset=0, RandChoice=0110001, Count1= 0, Count2= 0, Count3= 3, Count4= 8, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=400ms, Clock=0, Reset=0, RandChoice=0110001, Count1= 0, Count2= 0, Count3= 3, Count4= 8, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=410ms, Clock=1, Reset=0, RandChoice=0000000, Count1= 1, Count2= 0, Count3= 3, Count4= 8, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=0
+Time=420ms, Clock=0, Reset=0, RandChoice=0000000, Count1= 1, Count2= 0, Count3= 3, Count4= 8, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=0
+Time=430ms, Clock=1, Reset=0, RandChoice=1001100, Count1= 1, Count2= 0, Count3= 3, Count4= 9, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=440ms, Clock=0, Reset=0, RandChoice=1001100, Count1= 1, Count2= 0, Count3= 3, Count4= 9, Count5= 5, Count6= 3, Count7= 0, Count8= 0, BallLocation=3
+Time=450ms, Clock=1, Reset=0, RandChoice=0111101, Count1= 1, Count2= 0, Count3= 3, Count4= 9, Count5= 5, Count6= 4, Count7= 0, Count8= 0, BallLocation=5
+Time=460ms, Clock=0, Reset=0, RandChoice=0111101, Count1= 1, Count2= 0, Count3= 3, Count4= 9, Count5= 5, Count6= 4, Count7= 0, Count8= 0, BallLocation=5
+Time=470ms, Clock=1, Reset=0, RandChoice=1011000, Count1= 1, Count2= 0, Count3= 3, Count4=10, Count5= 5, Count6= 4, Count7= 0, Count8= 0, BallLocation=3
+Time=480ms, Clock=0, Reset=0, RandChoice=1011000, Count1= 1, Count2= 0, Count3= 3, Count4=10, Count5= 5, Count6= 4, Count7= 0, Count8= 0, BallLocation=3
+Time=490ms, Clock=1, Reset=0, RandChoice=0010001, Count1= 1, Count2= 0, Count3= 4, Count4=10, Count5= 5, Count6= 4, Count7= 0, Count8= 0, BallLocation=2
+Time=500ms, Clock=0, Reset=0, RandChoice=0010001, Count1= 1, Count2= 0, Count3= 4, Count4=10, Count5= 5, Count6= 4, Count7= 0, Count8= 0, BallLocation=2
+Time=510ms, Clock=1, Reset=0, RandChoice=1111111, Count1= 1, Count2= 0, Count3= 4, Count4=10, Count5= 5, Count6= 4, Count7= 0, Count8= 1, BallLocation=7
+Time=520ms, Clock=0, Reset=0, RandChoice=1111111, Count1= 1, Count2= 0, Count3= 4, Count4=10, Count5= 5, Count6= 4, Count7= 0, Count8= 1, BallLocation=7
+Time=530ms, Clock=1, Reset=0, RandChoice=0100001, Count1= 1, Count2= 0, Count3= 5, Count4=10, Count5= 5, Count6= 4, Count7= 0, Count8= 1, BallLocation=2
+Time=540ms, Clock=0, Reset=0, RandChoice=0100001, Count1= 1, Count2= 0, Count3= 5, Count4=10, Count5= 5, Count6= 4, Count7= 0, Count8= 1, BallLocation=2
+Time=550ms, Clock=1, Reset=0, RandChoice=1000101, Count1= 1, Count2= 0, Count3= 5, Count4=11, Count5= 5, Count6= 4, Count7= 0, Count8= 1, BallLocation=3
+Time=560ms, Clock=0, Reset=0, RandChoice=1000101, Count1= 1, Count2= 0, Count3= 5, Count4=11, Count5= 5, Count6= 4, Count7= 0, Count8= 1, BallLocation=3
+Time=570ms, Clock=1, Reset=0, RandChoice=0111010, Count1= 1, Count2= 0, Count3= 5, Count4=11, Count5= 6, Count6= 4, Count7= 0, Count8= 1, BallLocation=4
+Time=580ms, Clock=0, Reset=0, RandChoice=0111010, Count1= 1, Count2= 0, Count3= 5, Count4=11, Count5= 6, Count6= 4, Count7= 0, Count8= 1, BallLocation=4
+Time=590ms, Clock=1, Reset=0, RandChoice=0111010, Count1= 1, Count2= 0, Count3= 5, Count4=11, Count5= 7, Count6= 4, Count7= 0, Count8= 1, BallLocation=4
+Time=600ms, Clock=0, Reset=0, RandChoice=0111010, Count1= 1, Count2= 0, Count3= 5, Count4=11, Count5= 7, Count6= 4, Count7= 0, Count8= 1, BallLocation=4
+Time=610ms, Clock=1, Reset=0, RandChoice=1011111, Count1= 1, Count2= 0, Count3= 5, Count4=11, Count5= 7, Count6= 4, Count7= 1, Count8= 1, BallLocation=6
+Time=620ms, Clock=0, Reset=0, RandChoice=1011111, Count1= 1, Count2= 0, Count3= 5, Count4=11, Count5= 7, Count6= 4, Count7= 1, Count8= 1, BallLocation=6
+Time=630ms, Clock=1, Reset=0, RandChoice=1110000, Count1= 1, Count2= 0, Count3= 5, Count4=12, Count5= 7, Count6= 4, Count7= 1, Count8= 1, BallLocation=3
+Time=640ms, Clock=0, Reset=0, RandChoice=1110000, Count1= 1, Count2= 0, Count3= 5, Count4=12, Count5= 7, Count6= 4, Count7= 1, Count8= 1, BallLocation=3
+Time=650ms, Clock=1, Reset=0, RandChoice=0010010, Count1= 1, Count2= 0, Count3= 6, Count4=12, Count5= 7, Count6= 4, Count7= 1, Count8= 1, BallLocation=2
+Time=660ms, Clock=0, Reset=0, RandChoice=0010010, Count1= 1, Count2= 0, Count3= 6, Count4=12, Count5= 7, Count6= 4, Count7= 1, Count8= 1, BallLocation=2
+Time=670ms, Clock=1, Reset=0, RandChoice=0110000, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5= 7, Count6= 4, Count7= 1, Count8= 1, BallLocation=2
+Time=680ms, Clock=0, Reset=0, RandChoice=0110000, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5= 7, Count6= 4, Count7= 1, Count8= 1, BallLocation=2
+Time=690ms, Clock=1, Reset=0, RandChoice=1110110, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5= 7, Count6= 5, Count7= 1, Count8= 1, BallLocation=5
+Time=700ms, Clock=0, Reset=0, RandChoice=1110110, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5= 7, Count6= 5, Count7= 1, Count8= 1, BallLocation=5
+Time=710ms, Clock=1, Reset=0, RandChoice=1000111, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5= 8, Count6= 5, Count7= 1, Count8= 1, BallLocation=4
+Time=720ms, Clock=0, Reset=0, RandChoice=1000111, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5= 8, Count6= 5, Count7= 1, Count8= 1, BallLocation=4
+Time=730ms, Clock=1, Reset=0, RandChoice=1011101, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5= 8, Count6= 6, Count7= 1, Count8= 1, BallLocation=5
+Time=740ms, Clock=0, Reset=0, RandChoice=1011101, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5= 8, Count6= 6, Count7= 1, Count8= 1, BallLocation=5
+Time=750ms, Clock=1, Reset=0, RandChoice=1101010, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5= 9, Count6= 6, Count7= 1, Count8= 1, BallLocation=4
+Time=760ms, Clock=0, Reset=0, RandChoice=1101010, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5= 9, Count6= 6, Count7= 1, Count8= 1, BallLocation=4
+Time=770ms, Clock=1, Reset=0, RandChoice=1010111, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5= 9, Count6= 7, Count7= 1, Count8= 1, BallLocation=5
+Time=780ms, Clock=0, Reset=0, RandChoice=1010111, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5= 9, Count6= 7, Count7= 1, Count8= 1, BallLocation=5
+Time=790ms, Clock=1, Reset=0, RandChoice=0011101, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5=10, Count6= 7, Count7= 1, Count8= 1, BallLocation=4
+Time=800ms, Clock=0, Reset=0, RandChoice=0011101, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5=10, Count6= 7, Count7= 1, Count8= 1, BallLocation=4
+Time=810ms, Clock=1, Reset=0, RandChoice=1100111, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5=10, Count6= 8, Count7= 1, Count8= 1, BallLocation=5
+Time=820ms, Clock=0, Reset=0, RandChoice=1100111, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5=10, Count6= 8, Count7= 1, Count8= 1, BallLocation=5
+Time=830ms, Clock=1, Reset=0, RandChoice=1010101, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5=11, Count6= 8, Count7= 1, Count8= 1, BallLocation=4
+Time=840ms, Clock=0, Reset=0, RandChoice=1010101, Count1= 1, Count2= 0, Count3= 7, Count4=12, Count5=11, Count6= 8, Count7= 1, Count8= 1, BallLocation=4
+Time=850ms, Clock=1, Reset=0, RandChoice=0011000, Count1= 1, Count2= 0, Count3= 8, Count4=12, Count5=11, Count6= 8, Count7= 1, Count8= 1, BallLocation=2
+Time=860ms, Clock=0, Reset=0, RandChoice=0011000, Count1= 1, Count2= 0, Count3= 8, Count4=12, Count5=11, Count6= 8, Count7= 1, Count8= 1, BallLocation=2
+Time=870ms, Clock=1, Reset=0, RandChoice=1110100, Count1= 1, Count2= 0, Count3= 8, Count4=12, Count5=12, Count6= 8, Count7= 1, Count8= 1, BallLocation=4
+Time=880ms, Clock=0, Reset=0, RandChoice=1110100, Count1= 1, Count2= 0, Count3= 8, Count4=12, Count5=12, Count6= 8, Count7= 1, Count8= 1, BallLocation=4
+Time=890ms, Clock=1, Reset=0, RandChoice=0111101, Count1= 1, Count2= 0, Count3= 8, Count4=12, Count5=12, Count6= 9, Count7= 1, Count8= 1, BallLocation=5
+Time=900ms, Clock=0, Reset=0, RandChoice=0111101, Count1= 1, Count2= 0, Count3= 8, Count4=12, Count5=12, Count6= 9, Count7= 1, Count8= 1, BallLocation=5
+Time=910ms, Clock=1, Reset=0, RandChoice=1100111, Count1= 1, Count2= 0, Count3= 8, Count4=12, Count5=12, Count6=10, Count7= 1, Count8= 1, BallLocation=5
+Time=920ms, Clock=0, Reset=0, RandChoice=1100111, Count1= 1, Count2= 0, Count3= 8, Count4=12, Count5=12, Count6=10, Count7= 1, Count8= 1, BallLocation=5
+Time=930ms, Clock=1, Reset=0, RandChoice=0001000, Count1= 1, Count2= 1, Count3= 8, Count4=12, Count5=12, Count6=10, Count7= 1, Count8= 1, BallLocation=1
+Time=940ms, Clock=0, Reset=0, RandChoice=0001000, Count1= 1, Count2= 1, Count3= 8, Count4=12, Count5=12, Count6=10, Count7= 1, Count8= 1, BallLocation=1
+Time=950ms, Clock=1, Reset=0, RandChoice=1010011, Count1= 1, Count2= 1, Count3= 8, Count4=12, Count5=13, Count6=10, Count7= 1, Count8= 1, BallLocation=4
+Time=960ms, Clock=0, Reset=0, RandChoice=1010011, Count1= 1, Count2= 1, Count3= 8, Count4=12, Count5=13, Count6=10, Count7= 1, Count8= 1, BallLocation=4
+Time=970ms, Clock=1, Reset=0, RandChoice=0100010, Count1= 1, Count2= 1, Count3= 9, Count4=12, Count5=13, Count6=10, Count7= 1, Count8= 1, BallLocation=2
+Time=980ms, Clock=0, Reset=0, RandChoice=0100010, Count1= 1, Count2= 1, Count3= 9, Count4=12, Count5=13, Count6=10, Count7= 1, Count8= 1, BallLocation=2
+Time=990ms, Clock=1, Reset=0, RandChoice=1010110, Count1= 1, Count2= 1, Count3= 9, Count4=12, Count5=14, Count6=10, Count7= 1, Count8= 1, BallLocation=4
+Time=1000ms, Clock=0, Reset=0, RandChoice=1010110, Count1= 1, Count2= 1, Count3= 9, Count4=12, Count5=14, Count6=10, Count7= 1, Count8= 1, BallLocation=4
+Time=1010ms, Clock=1, Reset=0, RandChoice=0000110, Count1= 1, Count2= 1, Count3=10, Count4=12, Count5=14, Count6=10, Count7= 1, Count8= 1, BallLocation=2
+Time=1020ms, Clock=0, Reset=0, RandChoice=0000110, Count1= 1, Count2= 1, Count3=10, Count4=12, Count5=14, Count6=10, Count7= 1, Count8= 1, BallLocation=2
+Time=1030ms, Clock=1, Reset=0, RandChoice=1100011, Count1= 1, Count2= 1, Count3=10, Count4=12, Count5=15, Count6=10, Count7= 1, Count8= 1, BallLocation=4
+Time=1040ms, Clock=0, Reset=0, RandChoice=1100011, Count1= 1, Count2= 1, Count3=10, Count4=12, Count5=15, Count6=10, Count7= 1, Count8= 1, BallLocation=4
+Time=1050ms, Clock=1, Reset=0, RandChoice=0110100, Count1= 1, Count2= 1, Count3=10, Count4=13, Count5=15, Count6=10, Count7= 1, Count8= 1, BallLocation=3
+Time=1060ms, Clock=0, Reset=0, RandChoice=0110100, Count1= 1, Count2= 1, Count3=10, Count4=13, Count5=15, Count6=10, Count7= 1, Count8= 1, BallLocation=3
+Time=1070ms, Clock=1, Reset=0, RandChoice=1000010, Count1= 1, Count2= 1, Count3=11, Count4=13, Count5=15, Count6=10, Count7= 1, Count8= 1, BallLocation=2
+Time=1080ms, Clock=0, Reset=0, RandChoice=1000010, Count1= 1, Count2= 1, Count3=11, Count4=13, Count5=15, Count6=10, Count7= 1, Count8= 1, BallLocation=2
+Time=1090ms, Clock=1, Reset=0, RandChoice=1010000, Count1= 1, Count2= 1, Count3=12, Count4=13, Count5=15, Count6=10, Count7= 1, Count8= 1, BallLocation=2
+Time=1100ms, Clock=0, Reset=0, RandChoice=1010000, Count1= 1, Count2= 1, Count3=12, Count4=13, Count5=15, Count6=10, Count7= 1, Count8= 1, BallLocation=2
+Time=1110ms, Clock=1, Reset=0, RandChoice=1000111, Count1= 1, Count2= 1, Count3=12, Count4=13, Count5=16, Count6=10, Count7= 1, Count8= 1, BallLocation=4
+Time=1120ms, Clock=0, Reset=0, RandChoice=1000111, Count1= 1, Count2= 1, Count3=12, Count4=13, Count5=16, Count6=10, Count7= 1, Count8= 1, BallLocation=4
+Time=1130ms, Clock=1, Reset=0, RandChoice=1110111, Count1= 1, Count2= 1, Count3=12, Count4=13, Count5=16, Count6=10, Count7= 2, Count8= 1, BallLocation=6
+Time=1140ms, Clock=0, Reset=0, RandChoice=1110111, Count1= 1, Count2= 1, Count3=12, Count4=13, Count5=16, Count6=10, Count7= 2, Count8= 1, BallLocation=6
+Time=1150ms, Clock=1, Reset=0, RandChoice=1010000, Count1= 1, Count2= 1, Count3=13, Count4=13, Count5=16, Count6=10, Count7= 2, Count8= 1, BallLocation=2
+Time=1160ms, Clock=0, Reset=0, RandChoice=1010000, Count1= 1, Count2= 1, Count3=13, Count4=13, Count5=16, Count6=10, Count7= 2, Count8= 1, BallLocation=2
+Time=1170ms, Clock=1, Reset=0, RandChoice=1101000, Count1= 1, Count2= 1, Count3=13, Count4=14, Count5=16, Count6=10, Count7= 2, Count8= 1, BallLocation=3
+Time=1180ms, Clock=0, Reset=0, RandChoice=1101000, Count1= 1, Count2= 1, Count3=13, Count4=14, Count5=16, Count6=10, Count7= 2, Count8= 1, BallLocation=3
+Time=1190ms, Clock=1, Reset=0, RandChoice=0001010, Count1= 1, Count2= 1, Count3=14, Count4=14, Count5=16, Count6=10, Count7= 2, Count8= 1, BallLocation=2
+Time=1200ms, Clock=0, Reset=0, RandChoice=0001010, Count1= 1, Count2= 1, Count3=14, Count4=14, Count5=16, Count6=10, Count7= 2, Count8= 1, BallLocation=2
+Time=1210ms, Clock=1, Reset=0, RandChoice=1100111, Count1= 1, Count2= 1, Count3=14, Count4=14, Count5=16, Count6=11, Count7= 2, Count8= 1, BallLocation=5
+Time=1220ms, Clock=0, Reset=0, RandChoice=1100111, Count1= 1, Count2= 1, Count3=14, Count4=14, Count5=16, Count6=11, Count7= 2, Count8= 1, BallLocation=5
+Time=1230ms, Clock=1, Reset=0, RandChoice=0001000, Count1= 1, Count2= 2, Count3=14, Count4=14, Count5=16, Count6=11, Count7= 2, Count8= 1, BallLocation=1
+Time=1240ms, Clock=0, Reset=0, RandChoice=0001000, Count1= 1, Count2= 2, Count3=14, Count4=14, Count5=16, Count6=11, Count7= 2, Count8= 1, BallLocation=1
+Time=1250ms, Clock=1, Reset=0, RandChoice=1001101, Count1= 1, Count2= 2, Count3=14, Count4=14, Count5=17, Count6=11, Count7= 2, Count8= 1, BallLocation=4
+Time=1260ms, Clock=0, Reset=0, RandChoice=1001101, Count1= 1, Count2= 2, Count3=14, Count4=14, Count5=17, Count6=11, Count7= 2, Count8= 1, BallLocation=4
+Time=1270ms, Clock=1, Reset=0, RandChoice=1000101, Count1= 1, Count2= 2, Count3=14, Count4=15, Count5=17, Count6=11, Count7= 2, Count8= 1, BallLocation=3
+Time=1280ms, Clock=0, Reset=0, RandChoice=1000101, Count1= 1, Count2= 2, Count3=14, Count4=15, Count5=17, Count6=11, Count7= 2, Count8= 1, BallLocation=3
+Time=1290ms, Clock=1, Reset=0, RandChoice=0001110, Count1= 1, Count2= 2, Count3=14, Count4=16, Count5=17, Count6=11, Count7= 2, Count8= 1, BallLocation=3
+Time=1300ms, Clock=0, Reset=0, RandChoice=0001110, Count1= 1, Count2= 2, Count3=14, Count4=16, Count5=17, Count6=11, Count7= 2, Count8= 1, BallLocation=3
+Time=1310ms, Clock=1, Reset=0, RandChoice=1101100, Count1= 1, Count2= 2, Count3=14, Count4=16, Count5=18, Count6=11, Count7= 2, Count8= 1, BallLocation=4
+Time=1320ms, Clock=0, Reset=0, RandChoice=1101100, Count1= 1, Count2= 2, Count3=14, Count4=16, Count5=18, Count6=11, Count7= 2, Count8= 1, BallLocation=4
+Time=1330ms, Clock=1, Reset=0, RandChoice=0000101, Count1= 1, Count2= 2, Count3=15, Count4=16, Count5=18, Count6=11, Count7= 2, Count8= 1, BallLocation=2
+Time=1340ms, Clock=0, Reset=0, RandChoice=0000101, Count1= 1, Count2= 2, Count3=15, Count4=16, Count5=18, Count6=11, Count7= 2, Count8= 1, BallLocation=2
+Time=1350ms, Clock=1, Reset=0, RandChoice=0010110, Count1= 1, Count2= 2, Count3=15, Count4=17, Count5=18, Count6=11, Count7= 2, Count8= 1, BallLocation=3
+Time=1360ms, Clock=0, Reset=0, RandChoice=0010110, Count1= 1, Count2= 2, Count3=15, Count4=17, Count5=18, Count6=11, Count7= 2, Count8= 1, BallLocation=3
+Time=1370ms, Clock=1, Reset=0, RandChoice=0100011, Count1= 1, Count2= 2, Count3=15, Count4=18, Count5=18, Count6=11, Count7= 2, Count8= 1, BallLocation=3
+Time=1380ms, Clock=0, Reset=0, RandChoice=0100011, Count1= 1, Count2= 2, Count3=15, Count4=18, Count5=18, Count6=11, Count7= 2, Count8= 1, BallLocation=3
+Time=1390ms, Clock=1, Reset=0, RandChoice=1100101, Count1= 1, Count2= 2, Count3=15, Count4=18, Count5=19, Count6=11, Count7= 2, Count8= 1, BallLocation=4
+Time=1400ms, Clock=0, Reset=0, RandChoice=1100101, Count1= 1, Count2= 2, Count3=15, Count4=18, Count5=19, Count6=11, Count7= 2, Count8= 1, BallLocation=4
+Time=1410ms, Clock=1, Reset=0, RandChoice=0101010, Count1= 1, Count2= 2, Count3=15, Count4=19, Count5=19, Count6=11, Count7= 2, Count8= 1, BallLocation=3
+Time=1420ms, Clock=0, Reset=0, RandChoice=0101010, Count1= 1, Count2= 2, Count3=15, Count4=19, Count5=19, Count6=11, Count7= 2, Count8= 1, BallLocation=3
+Time=1430ms, Clock=1, Reset=0, RandChoice=1011101, Count1= 1, Count2= 2, Count3=15, Count4=19, Count5=19, Count6=12, Count7= 2, Count8= 1, BallLocation=5
+Time=1440ms, Clock=0, Reset=0, RandChoice=1011101, Count1= 1, Count2= 2, Count3=15, Count4=19, Count5=19, Count6=12, Count7= 2, Count8= 1, BallLocation=5
+Time=1450ms, Clock=1, Reset=0, RandChoice=1001101, Count1= 1, Count2= 2, Count3=15, Count4=19, Count5=20, Count6=12, Count7= 2, Count8= 1, BallLocation=4
+Time=1460ms, Clock=0, Reset=0, RandChoice=1001101, Count1= 1, Count2= 2, Count3=15, Count4=19, Count5=20, Count6=12, Count7= 2, Count8= 1, BallLocation=4
+Time=1470ms, Clock=1, Reset=0, RandChoice=0001001, Count1= 1, Count2= 2, Count3=16, Count4=19, Count5=20, Count6=12, Count7= 2, Count8= 1, BallLocation=2
+Time=1480ms, Clock=0, Reset=0, RandChoice=0001001, Count1= 1, Count2= 2, Count3=16, Count4=19, Count5=20, Count6=12, Count7= 2, Count8= 1, BallLocation=2
+Time=1490ms, Clock=1, Reset=0, RandChoice=1001110, Count1= 1, Count2= 2, Count3=16, Count4=19, Count5=21, Count6=12, Count7= 2, Count8= 1, BallLocation=4
+Time=1500ms, Clock=0, Reset=0, RandChoice=1001110, Count1= 1, Count2= 2, Count3=16, Count4=19, Count5=21, Count6=12, Count7= 2, Count8= 1, BallLocation=4
+Time=1510ms, Clock=1, Reset=0, RandChoice=1010001, Count1= 1, Count2= 2, Count3=16, Count4=20, Count5=21, Count6=12, Count7= 2, Count8= 1, BallLocation=3
+Time=1520ms, Clock=0, Reset=0, RandChoice=1010001, Count1= 1, Count2= 2, Count3=16, Count4=20, Count5=21, Count6=12, Count7= 2, Count8= 1, BallLocation=3
+Time=1530ms, Clock=1, Reset=0, RandChoice=1111010, Count1= 1, Count2= 2, Count3=16, Count4=20, Count5=21, Count6=13, Count7= 2, Count8= 1, BallLocation=5
+Time=1540ms, Clock=0, Reset=0, RandChoice=1111010, Count1= 1, Count2= 2, Count3=16, Count4=20, Count5=21, Count6=13, Count7= 2, Count8= 1, BallLocation=5
+Time=1550ms, Clock=1, Reset=0, RandChoice=1101101, Count1= 1, Count2= 2, Count3=16, Count4=20, Count5=21, Count6=14, Count7= 2, Count8= 1, BallLocation=5
+Time=1560ms, Clock=0, Reset=0, RandChoice=1101101, Count1= 1, Count2= 2, Count3=16, Count4=20, Count5=21, Count6=14, Count7= 2, Count8= 1, BallLocation=5
+Time=1570ms, Clock=1, Reset=0, RandChoice=0001011, Count1= 1, Count2= 2, Count3=16, Count4=21, Count5=21, Count6=14, Count7= 2, Count8= 1, BallLocation=3
+Time=1580ms, Clock=0, Reset=0, RandChoice=0001011, Count1= 1, Count2= 2, Count3=16, Count4=21, Count5=21, Count6=14, Count7= 2, Count8= 1, BallLocation=3
+Time=1590ms, Clock=1, Reset=0, RandChoice=1011001, Count1= 1, Count2= 2, Count3=16, Count4=21, Count5=22, Count6=14, Count7= 2, Count8= 1, BallLocation=4
+Time=1600ms, Clock=0, Reset=0, RandChoice=1011001, Count1= 1, Count2= 2, Count3=16, Count4=21, Count5=22, Count6=14, Count7= 2, Count8= 1, BallLocation=4
+Time=1610ms, Clock=1, Reset=0, RandChoice=1101010, Count1= 1, Count2= 2, Count3=16, Count4=21, Count5=23, Count6=14, Count7= 2, Count8= 1, BallLocation=4
+Time=1620ms, Clock=0, Reset=0, RandChoice=1101010, Count1= 1, Count2= 2, Count3=16, Count4=21, Count5=23, Count6=14, Count7= 2, Count8= 1, BallLocation=4
+
+Count1 = 01: | 
+Count2 = 02: | | 
+Count3 = 16: | | | | | | | | | | | | | | | | 
+Count4 = 21: | | | | | | | | | | | | | | | | | | | | | 
+Count5 = 23: | | | | | | | | | | | | | | | | | | | | | | | 
+Count6 = 14: | | | | | | | | | | | | | | 
+Count7 = 02: | | 
+Count8 = 01: | 

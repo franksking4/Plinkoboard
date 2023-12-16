@@ -1,0 +1,13 @@
+read_verilog *.v
+hierarchy -check -top plinkoboard
+
+setattr -unset keep *;
+
+proc; opt; fsm;  memory_dff; memory_share; memory_collect; memory_map;
+
+opt; synth; abc -g AND,OR,NAND,NOR,XOR; flatten;
+
+clean -purge;
+
+write_json build/netlist.json;
+write_verilog build/netlist.v;

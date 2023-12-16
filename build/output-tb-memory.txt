@@ -1,0 +1,24 @@
+WARNING: memory.v:17: $readmemh(programs/ballistics.mem): Not enough words in the file for the requested range [0:65535].
+VCD info: dumpfile build/tb-memory.vcd opened for output.
+zzz
+time=000 clk=0 addr=0000 din=beef we=0 dout=4f03
+time=001 clk=1 addr=0000 din=beef we=0 dout=4f03
+time=002 clk=0 addr=0000 din=beef we=0 dout=4f03
+time=003 clk=1 addr=0001 din=beef we=0 dout=4f03
+time=004 clk=0 addr=0001 din=beef we=0 dout=4015
+time=005 clk=1 addr=0006 din=beef we=0 dout=4015
+time=006 clk=0 addr=0006 din=beef we=0 dout=0786
+time=007 clk=1 addr=0000 din=beef we=1 dout=0786
+mem: writing 0000 - beef
+time=008 clk=0 addr=0000 din=beef we=1 dout=beef
+time=009 clk=1 addr=0000 din=beef we=0 dout=beef
+time=010 clk=0 addr=0000 din=beef we=0 dout=beef
+time=011 clk=1 addr=0001 din=c0de we=1 dout=beef
+mem: writing 0001 - c0de
+time=012 clk=0 addr=0001 din=c0de we=1 dout=c0de
+time=013 clk=1 addr=0000 din=c0de we=0 dout=c0de
+time=014 clk=0 addr=0000 din=c0de we=0 dout=beef
+time=015 clk=1 addr=0001 din=c0de we=0 dout=beef
+time=016 clk=0 addr=0001 din=c0de we=0 dout=c0de
+time=017 clk=1 addr=0002 din=c0de we=0 dout=c0de
+time=018 clk=0 addr=0002 din=c0de we=0 dout=4037

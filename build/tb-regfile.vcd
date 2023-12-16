@@ -1,0 +1,131 @@
+$date
+	Thu Nov 30 19:46:17 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module memory $end
+$var wire 16 ! addr [15:0] $end
+$var wire 1 " clk $end
+$var wire 16 # din [15:0] $end
+$var wire 16 $ dout [15:0] $end
+$var wire 1 % we $end
+$var reg 16 & outlatch [15:0] $end
+$upscope $end
+$scope module my_alu $end
+$var wire 16 ' a [15:0] $end
+$var wire 16 ( b [15:0] $end
+$var wire 1 ) cin $end
+$var wire 5 * opcode [4:0] $end
+$var wire 1 + z $end
+$var wire 16 , q [15:0] $end
+$var wire 1 - n $end
+$var wire 1 . c $end
+$var reg 17 / sum [16:0] $end
+$upscope $end
+$scope module plinko $end
+$var wire 3 0 ball_count [2:0] $end
+$var wire 3 1 mb_location [2:0] $end
+$var wire 3 2 mb_value [2:0] $end
+$var reg 3 3 ball_hole_1_count [2:0] $end
+$var reg 3 4 ball_hole_2_count [2:0] $end
+$upscope $end
+$scope module tb_regfile $end
+$var wire 16 5 a [15:0] $end
+$var wire 16 6 b [15:0] $end
+$var wire 16 7 t [15:0] $end
+$var reg 1 8 clk $end
+$var reg 16 9 din [15:0] $end
+$var reg 3 : idxa [2:0] $end
+$var reg 3 ; idxb [2:0] $end
+$var reg 3 < idxt [2:0] $end
+$var reg 3 = idxw [2:0] $end
+$var reg 1 > rst $end
+$var integer 32 ? i [31:0] $end
+$scope module dut $end
+$var wire 16 @ a [15:0] $end
+$var wire 16 A b [15:0] $end
+$var wire 1 8 clk $end
+$var wire 16 B din [15:0] $end
+$var wire 3 C idxa [2:0] $end
+$var wire 3 D idxb [2:0] $end
+$var wire 3 E idxt [2:0] $end
+$var wire 3 F idxw [2:0] $end
+$var wire 1 > rst $end
+$var wire 16 G t [15:0] $end
+$upscope $end
+$upscope $end
+$scope module testinterface $end
+$var wire 16 H flags [15:0] $end
+$var wire 3 I idxt [2:0] $end
+$var wire 16 J insn [15:0] $end
+$var wire 16 K pc [15:0] $end
+$var wire 16 L t [15:0] $end
+$var wire 16 M tout [15:0] $end
+$var wire 4 N treq [3:0] $end
+$var reg 3 O ouridxt [2:0] $end
+$var reg 16 P testval [15:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 P
+b0 O
+bz N
+b0 M
+bz L
+bz K
+bz J
+b0 I
+bz H
+bz G
+b0 F
+b11 E
+b0 D
+b0 C
+bx B
+bz A
+bz @
+bx ?
+1>
+b0 =
+b11 <
+b0 ;
+b0 :
+bx 9
+08
+bz 7
+bz 6
+bz 5
+b0 4
+b0 3
+bz 2
+bz 1
+bz 0
+b0xxxxxxxxxxxxxxxx /
+0.
+x-
+bx ,
+x+
+bz *
+z)
+bz (
+bz '
+bx &
+z%
+bx $
+bz #
+z"
+bz !
+$end
+#1
+18
+#2
+b111 ;
+b111 D
+b0 ?
+0>
+#3

@@ -1,0 +1,189 @@
+$date
+	Thu Nov 30 19:50:00 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module my_alu $end
+$var wire 16 ! a [15:0] $end
+$var wire 16 " b [15:0] $end
+$var wire 1 # cin $end
+$var wire 5 $ opcode [4:0] $end
+$var wire 1 % z $end
+$var wire 16 & q [15:0] $end
+$var wire 1 ' n $end
+$var wire 1 ( c $end
+$var reg 17 ) sum [16:0] $end
+$upscope $end
+$scope module plinko $end
+$var wire 3 * ball_count [2:0] $end
+$var wire 3 + mb_location [2:0] $end
+$var wire 3 , mb_value [2:0] $end
+$var reg 3 - ball_hole_1_count [2:0] $end
+$var reg 3 . ball_hole_2_count [2:0] $end
+$upscope $end
+$scope module regfile $end
+$var wire 16 / a [15:0] $end
+$var wire 16 0 b [15:0] $end
+$var wire 1 1 clk $end
+$var wire 16 2 din [15:0] $end
+$var wire 3 3 idxa [2:0] $end
+$var wire 3 4 idxb [2:0] $end
+$var wire 3 5 idxt [2:0] $end
+$var wire 3 6 idxw [2:0] $end
+$var wire 1 7 rst $end
+$var wire 16 8 t [15:0] $end
+$upscope $end
+$scope module tb_memory $end
+$var wire 16 9 dout [15:0] $end
+$var reg 16 : addr [15:0] $end
+$var reg 1 ; clk $end
+$var reg 16 < din [15:0] $end
+$var reg 1 = we $end
+$scope module mem $end
+$var wire 16 > addr [15:0] $end
+$var wire 1 ; clk $end
+$var wire 16 ? din [15:0] $end
+$var wire 16 @ dout [15:0] $end
+$var wire 1 = we $end
+$var reg 16 A outlatch [15:0] $end
+$upscope $end
+$upscope $end
+$scope module testinterface $end
+$var wire 16 B flags [15:0] $end
+$var wire 3 C idxt [2:0] $end
+$var wire 16 D insn [15:0] $end
+$var wire 16 E pc [15:0] $end
+$var wire 16 F t [15:0] $end
+$var wire 16 G tout [15:0] $end
+$var wire 4 H treq [3:0] $end
+$var reg 3 I ouridxt [2:0] $end
+$var reg 16 J testval [15:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 J
+b0 I
+bz H
+b0 G
+bz F
+bz E
+bz D
+b0 C
+bz B
+b100111100000011 A
+b100111100000011 @
+b1011111011101111 ?
+b0 >
+0=
+b1011111011101111 <
+0;
+b0 :
+b100111100000011 9
+bz 8
+z7
+bz 6
+bz 5
+bz 4
+bz 3
+bz 2
+z1
+bz 0
+bz /
+b0 .
+b0 -
+bz ,
+bz +
+bz *
+b0xxxxxxxxxxxxxxxx )
+0(
+x'
+bx &
+x%
+bz $
+z#
+bz "
+bz !
+$end
+#1
+1;
+#2
+0;
+#3
+1;
+b1 :
+b1 >
+#4
+b100000000010101 9
+b100000000010101 @
+b100000000010101 A
+0;
+#5
+1;
+b110 :
+b110 >
+#6
+b11110000110 9
+b11110000110 @
+b11110000110 A
+0;
+#7
+1;
+1=
+b0 :
+b0 >
+#8
+b1011111011101111 9
+b1011111011101111 @
+b1011111011101111 A
+0;
+#9
+1;
+0=
+#10
+0;
+#11
+1;
+1=
+b1 :
+b1 >
+b1100000011011110 <
+b1100000011011110 ?
+#12
+b1100000011011110 9
+b1100000011011110 @
+b1100000011011110 A
+0;
+#13
+1;
+b0 :
+b0 >
+0=
+#14
+b1011111011101111 9
+b1011111011101111 @
+b1011111011101111 A
+0;
+#15
+1;
+b1 :
+b1 >
+#16
+b1100000011011110 9
+b1100000011011110 @
+b1100000011011110 A
+0;
+#17
+1;
+b10 :
+b10 >
+#18
+b100000000110111 9
+b100000000110111 @
+b100000000110111 A
+0;
+#19
