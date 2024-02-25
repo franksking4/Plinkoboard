@@ -15,3 +15,7 @@ My goal was to implement the probability distribution graph of a Plinkoboard usi
 ![image](https://github.com/franksking4/Plinkoboard/assets/74384543/75f59b92-eb3b-429b-a1be-7a1f6c9370d5)
 
 As expected, the center two cubbies had the most balls while the left-most and right-most cubbies had the least balls.
+
+### Netlist:
+
+![image](https://github.com/franksking4/Plinkoboard/assets/74384543/b1f2f6bf-197a-4430-8f67-4a2aadae9b7e)
